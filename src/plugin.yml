@@ -1,0 +1,7 @@
+author: MrBrikster
+name: StopBotsJoin
+main: ru.MrBrikster.StopBotsJoin.Main
+version: 2.3
+commands:
+    sbj:
+    stopbotsjoin:
